@@ -1,0 +1,1 @@
+begin h:integer; xr:=9; if x>9 then x:=2*x+1/3; end #

@@ -1,0 +1,11 @@
+M -> e
+T1 -> real
+D1 -> id1 : T1
+T2 -> integer
+T3 -> ^ T2
+D2 -> id2 : T3
+T4 -> integer
+D3 -> id3 : T4
+D5 -> D2 ; D3
+D6 -> D1 ; D5
+P -> M D6

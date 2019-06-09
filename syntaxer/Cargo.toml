@@ -1,0 +1,6 @@
+[package]
+name = "syntaxer"
+version = "0.1.0"
+authors = ["ParadoxZW <964730078@qq.com>"]
+
+[dependencies]

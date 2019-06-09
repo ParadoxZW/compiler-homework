@@ -1,0 +1,8 @@
+[package]
+name = "lexical"
+version = "0.1.0"
+authors = ["ParadoxZW <964730078@qq.com>"]
+
+[dependencies]
+rayon = "1.0"
+regex = "1"
